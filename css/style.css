@@ -179,6 +179,7 @@ a {
 
 .call2action-sub-container>.button {
     border: 2px solid #E5E7EB;
+    flex-shrink: 0;
 }
 
 /* footer section styles */
