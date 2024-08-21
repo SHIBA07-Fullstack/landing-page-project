@@ -119,3 +119,26 @@ a {
 .img-text>img {
     border-radius: .5rem;
 }
+
+/* quote container styles */
+
+.quote-container {
+    padding: 5rem 12rem;
+}
+
+.quote-sub-container {
+    padding: 0 3rem;
+}
+
+.quote {
+    color: #1F2937;
+    font-weight: 100;
+    font-size: 2.25rem;
+}
+
+.quote-src {
+    text-align: right;
+    color: #1F2937;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
